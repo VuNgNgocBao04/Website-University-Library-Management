@@ -1,0 +1,36 @@
+{
+  "input_rows": 240,
+  "source_sha256": "a3e72865a9d239c1c15f16643d4ec047d7b558ed9f772da08e89b241715db228",
+  "counts": {
+    "READY": 137,
+    "REVIEW": 71,
+    "DUPLICATE": 13,
+    "EXCLUDED": 19
+  },
+  "isbn_status": {
+    "VALID": 175,
+    "MISSING": 63,
+    "INVALID": 2
+  },
+  "categories": {
+    "Nông nghiệp và thú y": 19,
+    "Giáo dục học": 35,
+    "Công nghệ thông tin": 9,
+    "Toán học và thống kê": 10,
+    "Ngôn ngữ và văn học": 23,
+    "Khoa học chính trị": 4,
+    "Y dược và sức khỏe": 39,
+    "Kỹ thuật và công nghệ": 5,
+    "Luật học": 26,
+    "Hóa học": 8,
+    "Kinh tế và quản trị": 11,
+    "Sinh học": 8,
+    "Vật lý": 17,
+    "Khoa học xã hội và nhân văn": 13,
+    "Địa lý và môi trường": 9,
+    "Khoa học tự nhiên": 2,
+    "Lịch sử và văn hóa": 2
+  },
+  "researched_rows": 93,
+  "database_modified": false
+}

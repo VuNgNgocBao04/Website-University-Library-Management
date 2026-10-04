@@ -1,0 +1,27 @@
+package vn.edu.library.domain;
+
+import jakarta.persistence.*;
+import java.math.BigDecimal;
+import java.time.Instant;
+import java.util.*;
+import lombok.Getter;
+import lombok.Setter;
+import vn.edu.library.domain.Types.*;
+
+@Entity
+@Table(name = "book_change_logs")
+@Getter
+@Setter
+public class BookChangeLog extends BaseEntity {
+
+  @ManyToOne(fetch = FetchType.LAZY)
+  private Book book;
+
+  @ManyToOne(fetch = FetchType.LAZY)
+  private User changedBy;
+
+  @Column(columnDefinition = "TEXT")
+  private String description;
+
+  private Instant createdAt = Instant.now();
+}

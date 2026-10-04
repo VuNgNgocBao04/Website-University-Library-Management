@@ -1,0 +1,2233 @@
+{
+  "6043": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6043"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Phương Pháp dạy học Mĩ thuật ở Tiểu học",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ph%C6%B0%C6%A1ng%20Ph%C3%A1p%20d%E1%BA%A1y%20h%E1%BB%8Dc%20M%C4%A9%20thu%E1%BA%ADt%20%E1%BB%9F%20Ti%E1%BB%83u%20h%E1%BB%8Dc%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "6020": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {
+      "publisher": "NXB Đại học Huế"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6020",
+      "https://csdlkhoahoc.hueuni.edu.vn/data/2026/9/GiaoTrinhLinkedData.pdf"
+    ],
+    "notes": "Trang tên của tệp đính kèm ghi NXB Đại học Huế, 2026. Không thấy ISBN trong phần biên mục; giữ thiếu ISBN, mã GT/12-2026 không phải ISBN.",
+    "searches": [
+      {
+        "query": "Giáo trình Dữ liệu Liên kết",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20D%E1%BB%AF%20li%E1%BB%87u%20Li%C3%AAn%20k%E1%BA%BFt%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5994": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5994"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo dục học 1",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20d%E1%BB%A5c%20h%E1%BB%8Dc%201%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "6052": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "AUTHOR_METADATA_REVIEW",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6052"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình Chính trị học đại cương",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Ch%C3%ADnh%20tr%E1%BB%8B%20h%E1%BB%8Dc%20%C4%91%E1%BA%A1i%20c%C6%B0%C6%A1ng%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786043507553\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786043507553%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "6028": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6028"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình Chẩn đoán hình ảnh",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Ch%E1%BA%A9n%20%C4%91o%C3%A1n%20h%C3%ACnh%20%E1%BA%A3nh%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5931": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5931"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Public International Law 2",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Public%20International%20Law%202%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Public international law",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Public%20international%20law%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 3,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786326272789\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786326272789%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5966": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING",
+    "updates": {
+      "isbn_raw": "9786326272918"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5966",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-dien-hoa-hoc-202611304130813201146"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Giáo trình Điện hóa học",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20%C4%90i%E1%BB%87n%20h%C3%B3a%20h%E1%BB%8Dc%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "6072": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6072"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Hệ chuyển hóa học",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22H%E1%BB%87%20chuy%E1%BB%83n%20h%C3%B3a%20h%E1%BB%8Dc%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "6024": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "AUTHOR_METADATA_REVIEW;TOO_LONG_AUTHOR",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6024",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-cham-cuu-hoc-202611304110813201203"
+    ],
+    "notes": "Thư viện Quốc gia xác nhận ISBN, năm 2026 và chủ biên Đoàn Văn Minh. Hồ sơ 6018 chỉ kê một người tham gia; giữ danh sách đầy đủ của 6024. Vẫn vướng giới hạn 255 ký tự, không cắt tác giả.",
+    "searches": [
+      {
+        "query": "Châm cứu học",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ch%C3%A2m%20c%E1%BB%A9u%20h%E1%BB%8Dc%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ],
+    "resolved_issues": [
+      "AUTHOR_METADATA_REVIEW"
+    ]
+  },
+  "5829": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5829"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Sử dụng phương tiện trực quan trong dạy học môn Lịch sử và Địa lí Trung học cơ sở",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22S%E1%BB%AD%20d%E1%BB%A5ng%20ph%C6%B0%C6%A1ng%20ti%E1%BB%87n%20tr%E1%BB%B1c%20quan%20trong%20d%E1%BA%A1y%20h%E1%BB%8Dc%20m%C3%B4n%20L%E1%BB%8Bch%20s%E1%BB%AD%20v%C3%A0%20%C4%90%E1%BB%8Ba%20l%C3%AD%20Trung%20h%E1%BB%8Dc%20c%C6%A1%20s%E1%BB%9F%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      }
+    ]
+  },
+  "6003": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_AUTHOR;MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6003"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "TIẾNG ANH CHUYÊN NGÀNH Y - DƯỢC",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22TI%E1%BA%BENG%20ANH%20CHUY%C3%8AN%20NG%C3%80NH%20Y%20-%20D%C6%AF%E1%BB%A2C%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Tiếng Anh chuyên ngành Y",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ti%E1%BA%BFng%20Anh%20chuy%C3%AAn%20ng%C3%A0nh%20Y%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      },
+      {
+        "query": "[[\"ti\", \"Tiếng Anh\"], [\"au\", \"Cái Ngọc Duy Anh\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ti%E1%BA%BFng%20Anh%22%5D%2C%20%5B%22au%22%2C%20%22C%C3%A1i%20Ng%E1%BB%8Dc%20Duy%20Anh%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": "HTTPSConnectionPool(host='opac.nlv.gov.vn', port=443): Read timed out."
+      }
+    ]
+  },
+  "6070": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6070"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Con người và sức khỏe",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Con%20ng%C6%B0%E1%BB%9Di%20v%C3%A0%20s%E1%BB%A9c%20kh%E1%BB%8Fe%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Con người và sức khoẻ",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Con%20ng%C6%B0%E1%BB%9Di%20v%C3%A0%20s%E1%BB%A9c%20kho%E1%BA%BB%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": "429 Client Error: Too Many Requests for url: https://opac.nlv.gov.vn/chi-tiet-tai-lieu/tu-nhien-va-xa-hoi-lop-2---tranh-minh-ho-202610959230813200121"
+      },
+      {
+        "query": "[[\"ti\", \"Con người\"], [\"au\", \"Nguyễn Thị Tường Vy\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Con%20ng%C6%B0%E1%BB%9Di%22%5D%2C%20%5B%22au%22%2C%20%22Nguy%E1%BB%85n%20Th%E1%BB%8B%20T%C6%B0%E1%BB%9Dng%20Vy%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5815": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_INVALID",
+    "updates": {
+      "isbn_raw": "9786326271263"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5815",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-ly-thuyet-truong-dien-tu-202611014710813200219",
+      "https://csdlkhoahoc.hueuni.edu.vn/data/2026/7/Giao_trinh_Ly_thuyet_truong_dien_tu.pdf"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn. Trang bản quyền đính kèm cũng in 978-632-627-126-7 (sai checksum); mã 9786326271263 lấy từ thư viện, không phải tự tính rồi đoán mã thay thế.",
+    "searches": [
+      {
+        "query": "Lý thuyết trường điện từ",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22L%C3%BD%20thuy%E1%BA%BFt%20tr%C6%B0%E1%BB%9Dng%20%C4%91i%E1%BB%87n%20t%E1%BB%AB%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "6004": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6004"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "TIẾNG ANH CHUYÊN NGÀNH Y - DƯỢC",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22TI%E1%BA%BENG%20ANH%20CHUY%C3%8AN%20NG%C3%80NH%20Y%20-%20D%C6%AF%E1%BB%A2C%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Tiếng Anh chuyên ngành Y",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ti%E1%BA%BFng%20Anh%20chuy%C3%AAn%20ng%C3%A0nh%20Y%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      },
+      {
+        "query": "[[\"ti\", \"Tiếng Anh\"], [\"au\", \"Cái Ngọc Duy Anh\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ti%E1%BA%BFng%20Anh%22%5D%2C%20%5B%22au%22%2C%20%22C%C3%A1i%20Ng%E1%BB%8Dc%20Duy%20Anh%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 3,
+        "error": "HTTPSConnectionPool(host='opac.nlv.gov.vn', port=443): Max retries exceeded with url: /chi-tiet-tai-lieu/54-bo-de-tieng-anh-luyen-thi-thpt-quoc-g-20268386910813190154 (Caused by ConnectTimeoutError(<H"
+      }
+    ]
+  },
+  "5771": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5771"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Những vấn đề tim mạch thiết yếu",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Nh%E1%BB%AFng%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20tim%20m%E1%BA%A1ch%20thi%E1%BA%BFt%20y%E1%BA%BFu%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "6077": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6077"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "TÀI LIỆU BỒI DƯỠNG THEO TIÊU CHUẨN CHỨC DANH NGHỀ NGHIỆP VIÊN CHỨC TƯ VẤN HỌC SINH",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22T%C3%80I%20LI%E1%BB%86U%20B%E1%BB%92I%20D%C6%AF%E1%BB%A0NG%20THEO%20TI%C3%8AU%20CHU%E1%BA%A8N%20CH%E1%BB%A8C%20DANH%20NGH%E1%BB%80%20NGHI%E1%BB%86P%20VI%C3%8AN%20CH%E1%BB%A8C%20T%C6%AF%20V%E1%BA%A4N%20H%E1%BB%8CC%20SINH%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "5739": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING",
+    "updates": {
+      "isbn_raw": "9786326270235"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5739",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-san-xuat-cay-trong-thich-ung-202611278050813200856"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Sản xuất cây trồng thích ứng với Biến đổi khí hậu",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22S%E1%BA%A3n%20xu%E1%BA%A5t%20c%C3%A2y%20tr%E1%BB%93ng%20th%C3%ADch%20%E1%BB%A9ng%20v%E1%BB%9Bi%20Bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20kh%C3%AD%20h%E1%BA%ADu%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "5727": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_INVALID",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5727"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo dục STEAM cho trẻ mầm non",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20d%E1%BB%A5c%20STEAM%20cho%20tr%E1%BA%BB%20m%E1%BA%A7m%20non%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Giáo dục STEAM",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20d%E1%BB%A5c%20STEAM%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://opac.nlv.gov.vn/Search"
+      },
+      {
+        "query": "[[\"ti\", \"STEAM\"], [\"au\", \"Đặng Lan Phương\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22STEAM%22%5D%2C%20%5B%22au%22%2C%20%22%C4%90%E1%BA%B7ng%20Lan%20Ph%C6%B0%C6%A1ng%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": "HTTPSConnectionPool(host='opac.nlv.gov.vn', port=443): Max retries exceeded with url: /tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetF"
+      }
+    ]
+  },
+  "6067": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6067",
+      "https://csdlkhoahoc.hueuni.edu.vn/data/2026/9/Bien_ban_nghiem_thu_bai_giang.pdf"
+    ],
+    "notes": "Tệp đính kèm là biên bản nghiệm thu bài giảng nội bộ, không phải trang bản quyền sách. Chưa xác định có ISBN hoặc nhà xuất bản; không gán trường đại học làm nhà xuất bản khi chưa có chứng cứ.",
+    "searches": [
+      {
+        "query": "Bài giảng Phân tích và Thiết kế các hệ thống thông tin",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22B%C3%A0i%20gi%E1%BA%A3ng%20Ph%C3%A2n%20t%C3%ADch%20v%C3%A0%20Thi%E1%BA%BFt%20k%E1%BA%BF%20c%C3%A1c%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "INTERNAL_TEACHING_MATERIAL"
+    ]
+  },
+  "5231": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "EDITION_YEAR_REVIEW",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5231"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "LÝ LUẬN VÀ PHƯƠNG PHÁP DẠY HỌC TIẾNG PHÁP NGOẠI NGỮ",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22L%C3%9D%20LU%E1%BA%ACN%20V%C3%80%20PH%C6%AF%C6%A0NG%20PH%C3%81P%20D%E1%BA%A0Y%20H%E1%BB%8CC%20TI%E1%BA%BENG%20PH%C3%81P%20NGO%E1%BA%A0I%20NG%E1%BB%AE%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Lý luận và phương pháp dạy học tiếng Pháp",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22L%C3%BD%20lu%E1%BA%ADn%20v%C3%A0%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20d%E1%BA%A1y%20h%E1%BB%8Dc%20ti%E1%BA%BFng%20Ph%C3%A1p%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786326720242\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786326720242%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": "HTTPSConnectionPool(host='opac.nlv.gov.vn', port=443): Read timed out. (read timeout=10)"
+      }
+    ]
+  },
+  "5631": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING",
+    "updates": {
+      "isbn_raw": "9786044890845"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5631",
+      "https://csdlkhoahoc.hueuni.edu.vn/data/2025/7/2__Quyet_dinh_xuat_ban.pdf",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/textbook-inorganic-chemistry-202610687650813200048"
+    ],
+    "notes": "Quyết định xuất bản đính kèm ngày 23/02/2024 ghi ISBN 978-604-489-084-5; Thư viện Quốc gia ghi bản 2024. Nguồn đang ghi 2025 và còn một ISBN khác của bản 2024, nên chưa tự đổi năm hoặc coi đã xác minh đủ ấn bản.",
+    "searches": [
+      {
+        "query": "Inorganic Chemistry",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Inorganic%20Chemistry%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5956": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "TOO_LONG_AUTHOR",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5956"
+    ],
+    "notes": "Danh sách tác giả nguồn vượt 255 ký tự. Giữ nguyên đầy đủ; đây là giới hạn trường nhập, không phải thiếu thông tin để tự cắt tên. Cần quyết định cách lưu tác giả đầy đủ trước khi nhập.",
+    "searches": [
+      {
+        "query": "GIÁO TRÌNH ĐẠI HỌC CHĂM SÓC SỨC KHOẺ CỘNG ĐỒNG",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22GI%C3%81O%20TR%C3%8CNH%20%C4%90%E1%BA%A0I%20H%E1%BB%8CC%20CH%C4%82M%20S%C3%93C%20S%E1%BB%A8C%20KHO%E1%BA%BA%20C%E1%BB%98NG%20%C4%90%E1%BB%92NG%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Chăm sóc sức khoẻ cộng đồng",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ch%C4%83m%20s%C3%B3c%20s%E1%BB%A9c%20kho%E1%BA%BB%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786044899053\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786044899053%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": "HTTPSConnectionPool(host='opac.nlv.gov.vn', port=443): Read timed out. (read timeout=10)"
+      }
+    ]
+  },
+  "5591": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "TOO_LONG_AUTHOR",
+    "updates": {
+      "title": "Giáo trình đại học: Lâm sàng Nhi khoa - Tập 1 (Dành cho sinh viên ngành Y khoa)"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5591",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-dai-hoc-lam-sang-nhi-khoa-t-202610827930813195843"
+    ],
+    "notes": "ISBN 9786044898810 là Tập 1, 2025 theo MARC 245/260. Bổ sung số tập để tránh hiểu là cả bộ. Giữ danh sách tác giả đầy đủ; vẫn cần xử lý giới hạn 255 ký tự.",
+    "searches": [
+      {
+        "query": "Giáo trình đại học Lâm sàng Nhi khoa",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc%20L%C3%A2m%20s%C3%A0ng%20Nhi%20khoa%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5558": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_METADATA_CONFLICT",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5558"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình Quản lý và Marketing điểm đến du lịch",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20Marketing%20%C4%91i%E1%BB%83m%20%C4%91%E1%BA%BFn%20du%20l%E1%BB%8Bch%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Marketing điểm đến",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Marketing%20%C4%91i%E1%BB%83m%20%C4%91%E1%BA%BFn%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786044891620\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786044891620%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5667": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING",
+    "updates": {
+      "isbn_raw": "9786044897714"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5667",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-thu-y-co-ban-202610818150813195825"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Giáo trình Thú y cơ bản",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Th%C3%BA%20y%20c%C6%A1%20b%E1%BA%A3n%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5630": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "MISSING_PUBLISHER",
+    "updates": {
+      "publisher": "NXB Giáo dục Việt Nam"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5630",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-to-chuc-hoat-dong-trai-nghiem-202610726070813195754"
+    ],
+    "notes": "ISBN, nhan đề, tác giả và năm 2025 khớp mục lục Thư viện Quốc gia; bổ sung nhà xuất bản từ MARC 260.",
+    "searches": [
+      {
+        "query": "Tổ chức hoạt động trải nghiệm sáng tạo trong dạy học vật lý",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22T%E1%BB%95%20ch%E1%BB%A9c%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20s%C3%A1ng%20t%E1%BA%A1o%20trong%20d%E1%BA%A1y%20h%E1%BB%8Dc%20v%E1%BA%ADt%20l%C3%BD%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Trải nghiệm sáng tạo trong dạy học vật",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Tr%E1%BA%A3i%20nghi%E1%BB%87m%20s%C3%A1ng%20t%E1%BA%A1o%20trong%20d%E1%BA%A1y%20h%E1%BB%8Dc%20v%E1%BA%ADt%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      }
+    ]
+  },
+  "5779": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5779"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình suy tim và cấp cứu tim mạch",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20suy%20tim%20v%C3%A0%20c%E1%BA%A5p%20c%E1%BB%A9u%20tim%20m%E1%BA%A1ch%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Suy tim và cấp cứu tim mạch",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Suy%20tim%20v%C3%A0%20c%E1%BA%A5p%20c%E1%BB%A9u%20tim%20m%E1%BA%A1ch%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5781": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING",
+    "updates": {
+      "isbn_raw": "9786044896694"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5781",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-tham-do-chuc-nang-tim-mach-202610827320813195540"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Giáo trình thăm dò chức năng tim mạch",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20th%C4%83m%20d%C3%B2%20ch%E1%BB%A9c%20n%C4%83ng%20tim%20m%E1%BA%A1ch%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "5459": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_INVALID",
+    "updates": {
+      "title": "Giáo trình Module 27: Tâm thần - Thần kinh",
+      "isbn_raw": "9786043994711"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5459",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-module-27---tam-than-than-ki-202610352830813194848",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-module-27---tam-than-than-ki-202610778790813195521"
+    ],
+    "notes": "MARC 020 xác nhận tiền tố 978, cùng nội dung và tác giả. Tuy nhiên ISBN này thuộc bản 2023; bản tái bản 2024 có ISBN 9786044893921. Giữ cờ năm/ấn bản để kiểm tra, không chọn thay ISBN theo năm một cách tự động.",
+    "searches": [
+      {
+        "query": "Giáo trình Module 27 Tâm Thần - Thàn KInh",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Module%2027%20T%C3%A2m%20Th%E1%BA%A7n%20-%20Th%C3%A0n%20KInh%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Module 27",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Module%2027%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 3,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5692": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "AUTHOR_METADATA_REVIEW",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5692"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Quản trị Logistics căn bản",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Qu%E1%BA%A3n%20tr%E1%BB%8B%20Logistics%20c%C4%83n%20b%E1%BA%A3n%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      }
+    ]
+  },
+  "5540": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5540"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo dục kỹ năng sống dành cho sinh viên ngành Giáo dục công dân và Giáo dục quốc phòng - an ninh",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20d%E1%BB%A5c%20k%E1%BB%B9%20n%C4%83ng%20s%E1%BB%91ng%20d%C3%A0nh%20cho%20sinh%20vi%C3%AAn%20ng%C3%A0nh%20Gi%C3%A1o%20d%E1%BB%A5c%20c%C3%B4ng%20d%C3%A2n%20v%C3%A0%20Gi%C3%A1o%20d%E1%BB%A5c%20qu%E1%BB%91c%20ph%C3%B2ng%20-%20an%20ninh%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Giáo dục kỹ năng sống",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20d%E1%BB%A5c%20k%E1%BB%B9%20n%C4%83ng%20s%E1%BB%91ng%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"ti\", \"Giáo dục kỹ năng sống\"], [\"au\", \"Nguyễn\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20d%E1%BB%A5c%20k%E1%BB%B9%20n%C4%83ng%20s%E1%BB%91ng%22%5D%2C%20%5B%22au%22%2C%20%22Nguy%E1%BB%85n%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5624": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "AUTHOR_METADATA_REVIEW",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5624"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình Luật thương mại quốc tế",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Lu%E1%BA%ADt%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20qu%E1%BB%91c%20t%E1%BA%BF%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786047269396\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786047269396%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5910": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5910"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Cú pháp học Ngữ pháp tiếng Nhật 2",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22C%C3%BA%20ph%C3%A1p%20h%E1%BB%8Dc%20Ng%E1%BB%AF%20ph%C3%A1p%20ti%E1%BA%BFng%20Nh%E1%BA%ADt%202%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Ngữ pháp tiếng Nhật 2",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ng%E1%BB%AF%20ph%C3%A1p%20ti%E1%BA%BFng%20Nh%E1%BA%ADt%202%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5329": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING",
+    "updates": {
+      "isbn_raw": "9786043995398"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5329",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-hoa-hoc-cong-nghe-va-moi-truo-202610650460813195325"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Hóa học Công nghệ và Môi trường",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22H%C3%B3a%20h%E1%BB%8Dc%20C%C3%B4ng%20ngh%E1%BB%87%20v%C3%A0%20M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Hoá học công nghệ",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ho%C3%A1%20h%E1%BB%8Dc%20c%C3%B4ng%20ngh%E1%BB%87%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5323": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5323"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "LƯỢC KHẢO CHỮ HÁN VÀ VĂN BẢN HÁN VĂN",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22L%C6%AF%E1%BB%A2C%20KH%E1%BA%A2O%20CH%E1%BB%AE%20H%C3%81N%20V%C3%80%20V%C4%82N%20B%E1%BA%A2N%20H%C3%81N%20V%C4%82N%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Lược khảo chữ Hán",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22L%C6%B0%E1%BB%A3c%20kh%E1%BA%A3o%20ch%E1%BB%AF%20H%C3%A1n%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5357": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5357"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Phương ngữ học",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ph%C6%B0%C6%A1ng%20ng%E1%BB%AF%20h%E1%BB%8Dc%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5435": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING",
+    "updates": {
+      "isbn_raw": "9786044894522"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5435",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-vat-ly---ly-sinh-202610778850813195522"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "GIÁO TRÌNH VẬT LÝ-LÝ SINH",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22GI%C3%81O%20TR%C3%8CNH%20V%E1%BA%ACT%20L%C3%9D-L%C3%9D%20SINH%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      }
+    ]
+  },
+  "5393": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_METADATA_CONFLICT",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5393"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Quản lý và Marketing điểm đến du lịch",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20Marketing%20%C4%91i%E1%BB%83m%20%C4%91%E1%BA%BFn%20du%20l%E1%BB%8Bch%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Marketing điểm đến",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Marketing%20%C4%91i%E1%BB%83m%20%C4%91%E1%BA%BFn%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786044891620\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786044891620%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5233": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5233"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình đất nước học",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20%C4%91%E1%BA%A5t%20n%C6%B0%E1%BB%9Bc%20h%E1%BB%8Dc%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5314": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5314"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Học liệu điện tử - Hóa học phân tích",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22H%E1%BB%8Dc%20li%E1%BB%87u%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20-%20H%C3%B3a%20h%E1%BB%8Dc%20ph%C3%A2n%20t%C3%ADch%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Hoá học phân tích",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ho%C3%A1%20h%E1%BB%8Dc%20ph%C3%A2n%20t%C3%ADch%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 3,
+        "error": "429 Client Error: Too Many Requests for url: https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-hoa-hoc-phan-tich-trong-day-h-202610012080813193639"
+      }
+    ]
+  },
+  "5051": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5051"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "法律汉语",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22%E6%B3%95%E5%BE%8B%E6%B1%89%E8%AF%AD%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Ngôn ngữ văn bản pháp luật tiếng Trung Quốc",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ng%C3%B4n%20ng%E1%BB%AF%20v%C4%83n%20b%E1%BA%A3n%20ph%C3%A1p%20lu%E1%BA%ADt%20ti%E1%BA%BFng%20Trung%20Qu%E1%BB%91c%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "5227": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5227"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình ngôn ngữ văn bản pháp luật tiếng Trung Quốc- 法律汉语",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20v%C4%83n%20b%E1%BA%A3n%20ph%C3%A1p%20lu%E1%BA%ADt%20ti%E1%BA%BFng%20Trung%20Qu%E1%BB%91c-%20%E6%B3%95%E5%BE%8B%E6%B1%89%E8%AF%AD%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Ngôn ngữ văn bản pháp luật tiếng Trung Quốc",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ng%C3%B4n%20ng%E1%BB%AF%20v%C4%83n%20b%E1%BA%A3n%20ph%C3%A1p%20lu%E1%BA%ADt%20ti%E1%BA%BFng%20Trung%20Qu%E1%BB%91c%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://opac.nlv.gov.vn/Search"
+      }
+    ]
+  },
+  "5315": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_INVALID",
+    "updates": {
+      "isbn_raw": "9786044307312"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5315",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-nhiet-hoc-202610290610813194619"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Giáo trình Nhiệt học",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Nhi%E1%BB%87t%20h%E1%BB%8Dc%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "Nhiệt học",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Nhi%E1%BB%87t%20h%E1%BB%8Dc%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://opac.nlv.gov.vn/Search"
+      },
+      {
+        "query": "[[\"ti\", \"Nhiệt học\"], [\"au\", \"Lê\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Nhi%E1%BB%87t%20h%E1%BB%8Dc%22%5D%2C%20%5B%22au%22%2C%20%22L%C3%AA%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "6000": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "POSSIBLE_DUPLICATE_TITLE",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/6000"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình Ngôn ngữ văn bản Pháp luật tiếng Trung Quốc（法律汉语）",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Ng%C3%B4n%20ng%E1%BB%AF%20v%C4%83n%20b%E1%BA%A3n%20Ph%C3%A1p%20lu%E1%BA%ADt%20ti%E1%BA%BFng%20Trung%20Qu%E1%BB%91c%EF%BC%88%E6%B3%95%E5%BE%8B%E6%B1%89%E8%AF%AD%EF%BC%89%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Ngôn ngữ văn bản pháp luật tiếng Trung Quốc",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ng%C3%B4n%20ng%E1%BB%AF%20v%C4%83n%20b%E1%BA%A3n%20ph%C3%A1p%20lu%E1%BA%ADt%20ti%E1%BA%BFng%20Trung%20Qu%E1%BB%91c%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://opac.nlv.gov.vn/Search"
+      }
+    ]
+  },
+  "5216": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5216"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "法律汉语",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22%E6%B3%95%E5%BE%8B%E6%B1%89%E8%AF%AD%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Ngôn ngữ văn bản pháp luật tiếng Trung Quốc",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ng%C3%B4n%20ng%E1%BB%AF%20v%C4%83n%20b%E1%BA%A3n%20ph%C3%A1p%20lu%E1%BA%ADt%20ti%E1%BA%BFng%20Trung%20Qu%E1%BB%91c%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "4417": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING",
+    "updates": {
+      "isbn_raw": "9786044894478"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/4417",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-giao-duc-hoc-2-202610621500813195219"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Giáo dục học 2",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20d%E1%BB%A5c%20h%E1%BB%8Dc%202%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      }
+    ]
+  },
+  "5192": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5192"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Kiểm toán căn bản",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ki%E1%BB%83m%20to%C3%A1n%20c%C4%83n%20b%E1%BA%A3n%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"ti\", \"Kiểm toán căn bản\"], [\"au\", \"Nguyễn\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ki%E1%BB%83m%20to%C3%A1n%20c%C4%83n%20b%E1%BA%A3n%22%5D%2C%20%5B%22au%22%2C%20%22Nguy%E1%BB%85n%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5333": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5333",
+      "https://csdlkhoahoc.hueuni.edu.vn/data/2024/7/CamScanner_07-31-2024_15_08.pdf"
+    ],
+    "notes": "Tệp đính kèm là biên bản nghiệm thu bài giảng nội bộ, không phải trang bản quyền sách. Chưa xác định có ISBN hoặc nhà xuất bản; không gán trường đại học làm nhà xuất bản khi chưa có chứng cứ.",
+    "searches": [
+      {
+        "query": "Bài giảng Mẫu thiết kế",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22B%C3%A0i%20gi%E1%BA%A3ng%20M%E1%BA%ABu%20thi%E1%BA%BFt%20k%E1%BA%BF%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "INTERNAL_TEACHING_MATERIAL"
+    ]
+  },
+  "5564": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_METADATA_CONFLICT",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5564"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình Quản lý và Marketing điểm đến du lịch",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20Marketing%20%C4%91i%E1%BB%83m%20%C4%91%E1%BA%BFn%20du%20l%E1%BB%8Bch%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Marketing điểm đến",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Marketing%20%C4%91i%E1%BB%83m%20%C4%91%E1%BA%BFn%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786044891620\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786044891620%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "4824": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/4824",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-khoang-vat--phuong-phap-xac-202610625000813195349"
+    ],
+    "notes": "Đúng nhan đề và tác giả nhưng mục lục ghi năm 2023; nguồn ghi 2024.",
+    "searches": [
+      {
+        "query": "Khoáng vật và phương pháp xác định khoáng vật",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Kho%C3%A1ng%20v%E1%BA%ADt%20v%C3%A0%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20kho%C3%A1ng%20v%E1%BA%ADt%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Khoáng vật",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Kho%C3%A1ng%20v%E1%BA%ADt%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5461": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "TOO_LONG_AUTHOR",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5461"
+    ],
+    "notes": "Danh sách tác giả nguồn vượt 255 ký tự. Giữ nguyên đầy đủ; đây là giới hạn trường nhập, không phải thiếu thông tin để tự cắt tên. Cần quyết định cách lưu tác giả đầy đủ trước khi nhập.",
+    "searches": [
+      {
+        "query": "GIÁO TRÌNH MODULE 13 HỆ THẦN KINH VÀ NỘI TIẾT",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22GI%C3%81O%20TR%C3%8CNH%20MODULE%2013%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH%20V%C3%80%20N%E1%BB%98I%20TI%E1%BA%BET%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "5903": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "AUTHOR_METADATA_REVIEW",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5903",
+      "https://csdlkhoahoc.hueuni.edu.vn/data/2024/7/GT_LUẬT_HNGD.pdf"
+    ],
+    "notes": "Trang 2 tệp sách xác nhận Hoàng Thị Hải Yến và Đoàn Đức Lương đồng chủ biên, cùng danh sách thành viên biên soạn. Khác biệt danh sách tác giả giữa các hồ sơ không phải sách khác; giữ danh sách nguồn đầy đủ và liên kết bản trùng.",
+    "searches": [
+      {
+        "query": "Giáo trình Luật Hôn nhân và gia đình Việt Nam",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Lu%E1%BA%ADt%20H%C3%B4n%20nh%C3%A2n%20v%C3%A0%20gia%20%C4%91%C3%ACnh%20Vi%E1%BB%87t%20Nam%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786047267729\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786047267729%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ],
+    "resolved_issues": [
+      "AUTHOR_METADATA_REVIEW"
+    ]
+  },
+  "5148": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5148",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-module-9---he-tim-mach-202610360410813194617"
+    ],
+    "notes": "Mục lục ghi bản 2023; nguồn ghi 2024. Cần xác minh tái bản trước khi dùng ISBN.",
+    "searches": [
+      {
+        "query": "Module 9- Hệ tim mạch",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Module%209-%20H%E1%BB%87%20tim%20m%E1%BA%A1ch%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5221": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5221"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình Ngôn ngữ văn bản Pháp luật tiếng Trung Quốc",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Ng%C3%B4n%20ng%E1%BB%AF%20v%C4%83n%20b%E1%BA%A3n%20Ph%C3%A1p%20lu%E1%BA%ADt%20ti%E1%BA%BFng%20Trung%20Qu%E1%BB%91c%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 3,
+        "error": ""
+      }
+    ]
+  },
+  "4905": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {
+      "isbn_raw": "9786044892337",
+      "publisher": "NXB Đại học Huế"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/4905",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-dai-so-tuyen-tinh-1-202610624990813195349"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Đại số Tuyến tính I",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22%C4%90%E1%BA%A1i%20s%E1%BB%91%20Tuy%E1%BA%BFn%20t%C3%ADnh%20I%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Đại số tuyến tính",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22%C4%90%E1%BA%A1i%20s%E1%BB%91%20tuy%E1%BA%BFn%20t%C3%ADnh%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"ti\", \"Đại số tuyến tính\"], [\"au\", \"Trần Nguyễn Khánh Linh\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22%C4%90%E1%BA%A1i%20s%E1%BB%91%20tuy%E1%BA%BFn%20t%C3%ADnh%22%5D%2C%20%5B%22au%22%2C%20%22Tr%E1%BA%A7n%20Nguy%E1%BB%85n%20Kh%C3%A1nh%20Linh%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      }
+    ]
+  },
+  "5141": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {
+      "isbn_raw": "9786044892412",
+      "publisher": "NXB Đại học Huế"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5141",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/linear-algebra-1-202610686310813200046"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Linear Algebra 1",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Linear%20Algebra%201%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "5776": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5776",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-dai-hoc-trieu-chung-hoc-noi-202610662830813195856"
+    ],
+    "notes": "Mục lục ghi bản 2025, nguồn ghi 2024. Cần trang bản quyền để phân biệt ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình triệu chứng học nội khoa",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20tri%E1%BB%87u%20ch%E1%BB%A9ng%20h%E1%BB%8Dc%20n%E1%BB%99i%20khoa%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Triệu chứng học nội khoa",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Tri%E1%BB%87u%20ch%E1%BB%A9ng%20h%E1%BB%8Dc%20n%E1%BB%99i%20khoa%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5389": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "TOO_LONG_AUTHOR",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5389"
+    ],
+    "notes": "Danh sách tác giả nguồn vượt 255 ký tự. Giữ nguyên đầy đủ; đây là giới hạn trường nhập, không phải thiếu thông tin để tự cắt tên. Cần quyết định cách lưu tác giả đầy đủ trước khi nhập.",
+    "searches": [
+      {
+        "query": "Quản lý năng suất và chất lượng",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Qu%E1%BA%A3n%20l%C3%BD%20n%C4%83ng%20su%E1%BA%A5t%20v%C3%A0%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786047942688\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786047942688%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5305": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_INVALID",
+    "updates": {
+      "title": "Giáo trình Luật Hôn nhân và gia đình Việt Nam",
+      "isbn_raw": "9786047267729",
+      "publication_year": "2024"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5305",
+      "https://csdlkhoahoc.hueuni.edu.vn/data/2024/7/GT_LUẬT_HNGD.pdf",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-luat-hon-nhan-va-gia-dinh-vie-202610231910813194226"
+    ],
+    "notes": "Tệp đính kèm ghi mã xuất bản năm 2024 và ISBN 978-604-72-6772-9; mục lục Thư viện Quốc gia cũng xác nhận năm 2024. Sửa năm 2023 và tiền tố ISBN 987 ở nguồn.",
+    "searches": [
+      {
+        "query": "Giáo trình Luật Hôn nhân và gia đình",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Lu%E1%BA%ADt%20H%C3%B4n%20nh%C3%A2n%20v%C3%A0%20gia%20%C4%91%C3%ACnh%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "Luật hôn nhân và gia đình Việt Nam",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Lu%E1%BA%ADt%20h%C3%B4n%20nh%C3%A2n%20v%C3%A0%20gia%20%C4%91%C3%ACnh%20Vi%E1%BB%87t%20Nam%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5119": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_INVALID",
+    "updates": {
+      "isbn_raw": "9786049747052"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5119",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-co-so-tu-nhien---xa-hoi-2-li-20268954580813191701",
+      "https://csdlkhoahoc.hueuni.edu.vn/data/2023/5/Chi_Lang_-Ly_lich_khoa_hoc.pdf"
+    ],
+    "notes": "Thư viện Quốc gia ghi ISBN hợp lệ 9786049747052 cho bản 2020, khớp nhan đề và hai tác giả. Hồ sơ tác giả cũng ghi năm 2020 nhưng in ISBN sai checksum. Nguồn sách hiện ghi 2023; cần xác minh năm trước khi nhập.",
+    "searches": [
+      {
+        "query": "Cơ sở Tự nhiên Xã hội 2",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22C%C6%A1%20s%E1%BB%9F%20T%E1%BB%B1%20nhi%C3%AAn%20X%C3%A3%20h%E1%BB%99i%202%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      },
+      {
+        "query": "Cơ sở tự nhiên",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22C%C6%A1%20s%E1%BB%9F%20t%E1%BB%B1%20nhi%C3%AAn%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5282": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_INVALID;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {
+      "isbn_raw": "9786048131920",
+      "author": "Hà Lệ Thủy (Chủ biên)"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5282",
+      "https://csdlkhoahoc.hueuni.edu.vn/data/2025/1/giao_trinh_luat_hs_phan_toi_pham_2023.pdf"
+    ],
+    "notes": "Đối chiếu trang bìa và mã vạch ở trang 8 của tệp sách: 978-604-81-3192-0; chủ biên Hà Lệ Thủy. Trường tác giả dùng trách nhiệm chính ghi trên bìa; tên người tham gia ban đầu vẫn nằm trong original_author.",
+    "searches": [
+      {
+        "query": "Giáo trình Luật hình sự Việt Nam phần các tội phạm",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Lu%E1%BA%ADt%20h%C3%ACnh%20s%E1%BB%B1%20Vi%E1%BB%87t%20Nam%20ph%E1%BA%A7n%20c%C3%A1c%20t%E1%BB%99i%20ph%E1%BA%A1m%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      },
+      {
+        "query": "Luật hình sự Việt Nam",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Lu%E1%BA%ADt%20h%C3%ACnh%20s%E1%BB%B1%20Vi%E1%BB%87t%20Nam%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5488": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_MISSING;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {
+      "isbn_raw": "9786048131920",
+      "author": "Hà Lệ Thủy (Chủ biên)"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5488",
+      "https://csdlkhoahoc.hueuni.edu.vn/data/2025/1/giao_trinh_luat_hs_phan_toi_pham_2023.pdf"
+    ],
+    "notes": "Đối chiếu trang bìa và mã vạch ở trang 8 của tệp sách: 978-604-81-3192-0; chủ biên Hà Lệ Thủy. Trường tác giả dùng trách nhiệm chính ghi trên bìa; tên người tham gia ban đầu vẫn nằm trong original_author.",
+    "searches": [
+      {
+        "query": "Giáo trình luật hình sự Việt Nam phần các tội phạm",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20lu%E1%BA%ADt%20h%C3%ACnh%20s%E1%BB%B1%20Vi%E1%BB%87t%20Nam%20ph%E1%BA%A7n%20c%C3%A1c%20t%E1%BB%99i%20ph%E1%BA%A1m%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      },
+      {
+        "query": "Luật hình sự Việt Nam",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Lu%E1%BA%ADt%20h%C3%ACnh%20s%E1%BB%B1%20Vi%E1%BB%87t%20Nam%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5103": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5103",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-sau-dai-hoc-hoi-suc-cap-cuu-202610779070813195621"
+    ],
+    "notes": "Nguồn gộp tập 1 và 2 năm 2023. Kết quả là từng tập tái bản 2025, mỗi tập có ISBN riêng; không gán ISBN của một tập cho cả bộ.",
+    "searches": [
+      {
+        "query": "Giáo trình sau đại học Hồi sức cấp cứu tập 1, 2",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20sau%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc%20H%E1%BB%93i%20s%E1%BB%A9c%20c%E1%BA%A5p%20c%E1%BB%A9u%20t%E1%BA%ADp%201%2C%202%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Hồi sức cấp cứu",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22H%E1%BB%93i%20s%E1%BB%A9c%20c%E1%BA%A5p%20c%E1%BB%A9u%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5178": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_AUTHOR",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5178",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-tieng-viet-trinh-do-a2-202610651970813195321"
+    ],
+    "notes": "Nguồn thiếu cả tác giả; tìm thấy sách A2 năm 2024 nhưng chưa chứng minh đúng bản 2023 này.",
+    "searches": [
+      {
+        "query": "Giáo trình tiếng Việt A2",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20ti%E1%BA%BFng%20Vi%E1%BB%87t%20A2%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Tiếng Việt trình độ A2",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ti%E1%BA%BFng%20Vi%E1%BB%87t%20tr%C3%ACnh%20%C4%91%E1%BB%99%20A2%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5225": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5225",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-tieng-viet-trinh-do-a1-202610651960813195321"
+    ],
+    "notes": "Có bản 2024 và tái bản cùng năm với ISBN khác; nguồn ghi 2023, chưa đủ căn cứ chọn ISBN.",
+    "searches": [
+      {
+        "query": "Giáo trình tiếng Việt trình độ A1",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20ti%E1%BA%BFng%20Vi%E1%BB%87t%20tr%C3%ACnh%20%C4%91%E1%BB%99%20A1%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5839": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5839",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-sinh-ly-hoc-thuc-vat-202610751110813195658"
+    ],
+    "notes": "Đúng nhóm tác giả nhưng mục lục ghi bản 2025, nguồn ghi 2023. Giữ để kiểm tra ấn bản.",
+    "searches": [
+      {
+        "query": "Sinh lý học thực vật",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Sinh%20l%C3%BD%20h%E1%BB%8Dc%20th%E1%BB%B1c%20v%E1%BA%ADt%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5369": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5369",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-tieng-viet-trinh-do-a2-202610651970813195321"
+    ],
+    "notes": "Tìm thấy bản A2 năm 2024; nguồn ghi 2023. Chưa dùng ISBN của bản 2024 cho bản 2023.",
+    "searches": [
+      {
+        "query": "Giáo trình tiếng Việt trình độ A2",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20ti%E1%BA%BFng%20Vi%E1%BB%87t%20tr%C3%ACnh%20%C4%91%E1%BB%99%20A2%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5092": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "POSSIBLE_DUPLICATE_TITLE",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5092"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "CHỌN GIỐNG VÀ NHÂN GIỐNG VẬT NUÔI",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22CH%E1%BB%8CN%20GI%E1%BB%90NG%20V%C3%80%20NH%C3%82N%20GI%E1%BB%90NG%20V%E1%BA%ACT%20NU%C3%94I%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786043995237\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786043995237%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5144": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "TOO_LONG_AUTHOR",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5144"
+    ],
+    "notes": "Danh sách tác giả nguồn vượt 255 ký tự. Giữ nguyên đầy đủ; đây là giới hạn trường nhập, không phải thiếu thông tin để tự cắt tên. Cần quyết định cách lưu tác giả đầy đủ trước khi nhập.",
+    "searches": [
+      {
+        "query": "Giáo trình Module 25: Y học cổ truyền - Phục hồi chức năng",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Module%2025%3A%20Y%20h%E1%BB%8Dc%20c%E1%BB%95%20truy%E1%BB%81n%20-%20Ph%E1%BB%A5c%20h%E1%BB%93i%20ch%E1%BB%A9c%20n%C4%83ng%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 3,
+        "error": ""
+      }
+    ]
+  },
+  "5122": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5122",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-sau-dai-hoc-hoi-suc-cap-cuu-202610779070813195621"
+    ],
+    "notes": "Nguồn gộp tập 1 và 2 năm 2023. Phải xác minh và tách từng tập khi biên mục; chưa thay dữ liệu thành một tập tái bản 2025.",
+    "searches": [
+      {
+        "query": "Giáo trình sau đại học Hồi sức cấp cứu tập 1,2",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20sau%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc%20H%E1%BB%93i%20s%E1%BB%A9c%20c%E1%BA%A5p%20c%E1%BB%A9u%20t%E1%BA%ADp%201%2C2%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Hồi sức cấp cứu",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22H%E1%BB%93i%20s%E1%BB%A9c%20c%E1%BA%A5p%20c%E1%BB%A9u%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5511": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "AUTHOR_METADATA_REVIEW",
+    "updates": {
+      "author": "Hà Lệ Thủy, Nguyễn Thị Bình (Đồng chủ biên)"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5511",
+      "https://hul.edu.vn/vi/unit_news/trung-tam-thong-tin-thu-vien/giao-trinh-toi-pham-hoc"
+    ],
+    "notes": "Thư viện Đại học Luật Huế xác nhận hai người là đồng chủ biên bản 2023. Hai hồ sơ nguồn chỉ kê riêng từng người; giữ thông tin gốc để truy vết.",
+    "searches": [
+      {
+        "query": "Tội phạm học",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22T%E1%BB%99i%20ph%E1%BA%A1m%20h%E1%BB%8Dc%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786048132064\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786048132064%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ],
+    "resolved_issues": [
+      "AUTHOR_METADATA_REVIEW"
+    ]
+  },
+  "5176": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_INVALID",
+    "updates": {
+      "isbn_raw": "9786043995374"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5176",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-mien-dich-hoc-thuy-san-ung-du-202610403900813194701"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Miễn dịch học thuỷ sản ứng dụng",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Mi%E1%BB%85n%20d%E1%BB%8Bch%20h%E1%BB%8Dc%20thu%E1%BB%B7%20s%E1%BA%A3n%20%E1%BB%A9ng%20d%E1%BB%A5ng%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "5046": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5046"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình từ vựng học tiếng Nhật",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20t%E1%BB%AB%20v%E1%BB%B1ng%20h%E1%BB%8Dc%20ti%E1%BA%BFng%20Nh%E1%BA%ADt%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "5234": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5234"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình từ vựng học tiếng Nhật",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20t%E1%BB%AB%20v%E1%BB%B1ng%20h%E1%BB%8Dc%20ti%E1%BA%BFng%20Nh%E1%BA%ADt%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      }
+    ]
+  },
+  "5048": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5048"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Materials Development and Adaptation in English Language Teaching",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Materials%20Development%20and%20Adaptation%20in%20English%20Language%20Teaching%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Materials development",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Materials%20development%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 2,
+        "error": ""
+      },
+      {
+        "query": "[[\"au\", \"Le Pham Hoai Huong\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22au%22%2C%20%22Le%20Pham%20Hoai%20Huong%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      }
+    ]
+  },
+  "5149": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5149"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Mô Học",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22M%C3%B4%20H%E1%BB%8Dc%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"ti\", \"Mô học\"], [\"au\", \"Nguyễn Phương Thảo Tiên\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22M%C3%B4%20h%E1%BB%8Dc%22%5D%2C%20%5B%22au%22%2C%20%22Nguy%E1%BB%85n%20Ph%C6%B0%C6%A1ng%20Th%E1%BA%A3o%20Ti%C3%AAn%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      }
+    ]
+  },
+  "5858": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5858"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Ngoại bệnh lý",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ngo%E1%BA%A1i%20b%E1%BB%87nh%20l%C3%BD%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5042": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "EDITION_YEAR_REVIEW;ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5042"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Nguyên Lý Kế Toán",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Nguy%C3%AAn%20L%C3%BD%20K%E1%BA%BF%20To%C3%A1n%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5230": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5230"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Chọn giống và nhân giống vật nuôi",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ch%E1%BB%8Dn%20gi%E1%BB%91ng%20v%C3%A0%20nh%C3%A2n%20gi%E1%BB%91ng%20v%E1%BA%ADt%20nu%C3%B4i%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  },
+  "5295": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_METADATA_CONFLICT",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5295"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "GIÁO TRÌNH LUẬT TỐ TỤNG DÂN SỰ VIỆT NAM",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22GI%C3%81O%20TR%C3%8CNH%20LU%E1%BA%ACT%20T%E1%BB%90%20T%E1%BB%A4NG%20D%C3%82N%20S%E1%BB%B0%20VI%E1%BB%86T%20NAM%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786047264568\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786047264568%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5707": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_METADATA_CONFLICT",
+    "updates": {
+      "publisher": "NXB Công an nhân dân"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5707",
+      "https://nlv.gov.vn/dmdocuments/tmqg-12-2023.pdf"
+    ],
+    "notes": "Thư mục Quốc gia tháng 12/2023, mục 272, xác nhận nhan đề, hai chủ biên, năm 2023 và NXB Công an nhân dân. Sửa nhà xuất bản Tư pháp; khác biệt danh sách người tham gia vẫn cần kiểm tra.",
+    "searches": [
+      {
+        "query": "Giáo trình Luật tố tụng dân sự Việt Nam",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Lu%E1%BA%ADt%20t%E1%BB%91%20t%E1%BB%A5ng%20d%C3%A2n%20s%E1%BB%B1%20Vi%E1%BB%87t%20Nam%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786047264568\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786047264568%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5904": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "AUTHOR_METADATA_REVIEW",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5904"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình Tư pháp quốc tế",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20T%C6%B0%20ph%C3%A1p%20qu%E1%BB%91c%20t%E1%BA%BF%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"bn\", \"9786047264421\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22bn%22%2C%20%229786047264421%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "4997": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/4997"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Đạo đức kinh doanh",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c%20kinh%20doanh%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      },
+      {
+        "query": "[[\"ti\", \"Đạo đức kinh doanh\"], [\"au\", \"Nguyễn Văn Thắng\"]]",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22%C4%90%E1%BA%A1o%20%C4%91%E1%BB%A9c%20kinh%20doanh%22%5D%2C%20%5B%22au%22%2C%20%22Nguy%E1%BB%85n%20V%C4%83n%20Th%E1%BA%AFng%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "4996": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/4996"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình giáo dục di sản trong nhà trường phổ thông",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20gi%C3%A1o%20d%E1%BB%A5c%20di%20s%E1%BA%A3n%20trong%20nh%C3%A0%20tr%C6%B0%E1%BB%9Dng%20ph%E1%BB%95%20th%C3%B4ng%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "5387": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_INVALID;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {
+      "isbn_raw": "9786043996500"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5387",
+      "https://lib.huflis.edu.vn/opac/DmdInfo.aspx?mnuid=141&dmd_id=22684",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-dat-nuoc-hoc-trung-quoc-202610651830813195321"
+    ],
+    "notes": "MARC 020 của thư viện Đại học Ngoại ngữ Huế xác nhận 9786043996500, năm 2023. Thư viện Quốc gia ghi cùng ISBN nhưng năm 2024, số trang khác; chưa kết luận ấn bản. Giữ các năm gốc và yêu cầu xem trang bản quyền.",
+    "searches": [
+      {
+        "query": "ĐẤT NƯỚC HỌC TRUNG QUỐC",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22%C4%90%E1%BA%A4T%20N%C6%AF%E1%BB%9AC%20H%E1%BB%8CC%20TRUNG%20QU%E1%BB%90C%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      },
+      {
+        "query": "Đất nước học Trung Quốc",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22%C4%90%E1%BA%A5t%20n%C6%B0%E1%BB%9Bc%20h%E1%BB%8Dc%20Trung%20Qu%E1%BB%91c%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5788": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_INVALID;POSSIBLE_DUPLICATE_TITLE",
+    "updates": {
+      "isbn_raw": "9786043996500"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5788",
+      "https://lib.huflis.edu.vn/opac/DmdInfo.aspx?mnuid=141&dmd_id=22684",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-dat-nuoc-hoc-trung-quoc-202610651830813195321"
+    ],
+    "notes": "MARC 020 của thư viện Đại học Ngoại ngữ Huế xác nhận 9786043996500, năm 2023. Thư viện Quốc gia ghi cùng ISBN nhưng năm 2024, số trang khác; chưa kết luận ấn bản. Giữ các năm gốc và yêu cầu xem trang bản quyền.",
+    "searches": [
+      {
+        "query": "ĐẤT NƯỚC HỌC TRUNG QUỐC",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22%C4%90%E1%BA%A4T%20N%C6%AF%E1%BB%9AC%20H%E1%BB%8CC%20TRUNG%20QU%E1%BB%90C%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      },
+      {
+        "query": "Đất nước học Trung Quốc",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22%C4%90%E1%BA%A5t%20n%C6%B0%E1%BB%9Bc%20h%E1%BB%8Dc%20Trung%20Qu%E1%BB%91c%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "4931": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/4931"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Giáo trình Miễn dịch học Thú y",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Mi%E1%BB%85n%20d%E1%BB%8Bch%20h%E1%BB%8Dc%20Th%C3%BA%20y%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 4,
+        "error": ""
+      }
+    ]
+  },
+  "4886": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING;MISSING_PUBLISHER",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/4886",
+      "https://csdlkhoahoc.hueuni.edu.vn/data/2023/6/CamScanner_06-20-2023_17_10.pdf"
+    ],
+    "notes": "Tệp đính kèm là biên bản nghiệm thu bài giảng nội bộ, không phải trang bản quyền sách. Chưa xác định có ISBN hoặc nhà xuất bản; không gán trường đại học làm nhà xuất bản khi chưa có chứng cứ.",
+    "searches": [
+      {
+        "query": "Bài giảng Ngôn ngữ mô hình hoá UML",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22B%C3%A0i%20gi%E1%BA%A3ng%20Ng%C3%B4n%20ng%E1%BB%AF%20m%C3%B4%20h%C3%ACnh%20ho%C3%A1%20UML%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "INTERNAL_TEACHING_MATERIAL"
+    ]
+  },
+  "4865": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "TOO_LONG_AUTHOR",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/4865"
+    ],
+    "notes": "Danh sách tác giả nguồn vượt 255 ký tự. Giữ nguyên đầy đủ; đây là giới hạn trường nhập, không phải thiếu thông tin để tự cắt tên. Cần quyết định cách lưu tác giả đầy đủ trước khi nhập.",
+    "searches": [
+      {
+        "query": "Giáo dục môi trường đại cương",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20d%E1%BB%A5c%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20%C4%91%E1%BA%A1i%20c%C6%B0%C6%A1ng%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      }
+    ]
+  },
+  "4821": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/4821",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/computer---assisted-translation-systems-20269898620813193602"
+    ],
+    "notes": "Mục lục hai thư viện cùng ghi bản 2022, trong khi nguồn ghi 2023; chưa xác minh đây là cùng ấn bản.",
+    "searches": [
+      {
+        "query": "HỆ THỐNG HỖ TRỢ BIÊN DỊCH BẰNG MÁY TÍNH",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22H%E1%BB%86%20TH%E1%BB%90NG%20H%E1%BB%96%20TR%E1%BB%A2%20BI%C3%8AN%20D%E1%BB%8ACH%20B%E1%BA%B0NG%20M%C3%81Y%20T%C3%8DNH%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 0,
+        "error": ""
+      },
+      {
+        "query": "Computer-assisted translation",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Computer-assisted%20translation%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      }
+    ],
+    "additional_issues": [
+      "EDITION_YEAR_REVIEW"
+    ]
+  },
+  "5091": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_INVALID",
+    "updates": {
+      "isbn_raw": "9786043993035"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5091",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-thuc-hanh-mot-so-dang-bao-che-202610305480813194500"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Giáo trình thực hành \"Một số dạng bào chế đặc biệt\"",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20th%E1%BB%B1c%20h%C3%A0nh%20%5C%22M%E1%BB%99t%20s%E1%BB%91%20d%E1%BA%A1ng%20b%C3%A0o%20ch%E1%BA%BF%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%5C%22%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      },
+      {
+        "query": "Một số dạng bào chế đặc biệt",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22M%E1%BB%99t%20s%E1%BB%91%20d%E1%BA%A1ng%20b%C3%A0o%20ch%E1%BA%BF%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      }
+    ]
+  },
+  "4801": {
+    "checked_at": "2026-10-03",
+    "research_status": "VERIFIED_UPDATE",
+    "before_issues": "ISBN_INVALID",
+    "updates": {
+      "isbn_raw": "9786049507441"
+    },
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/4801",
+      "https://opac.nlv.gov.vn/chi-tiet-tai-lieu/giao-trinh-phan-tich-sinh-ke-nong-thon-202610012230813193707"
+    ],
+    "notes": "Bổ sung/đính chính ISBN theo MARC 020 của Thư viện Quốc gia; đã đối chiếu nhan đề, tác giả, nhà xuất bản và năm với bản ghi nguồn.",
+    "searches": [
+      {
+        "query": "Giáo trình Phân tích sinh kế nông thôn",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Gi%C3%A1o%20tr%C3%ACnh%20Ph%C3%A2n%20t%C3%ADch%20sinh%20k%E1%BA%BF%20n%C3%B4ng%20th%C3%B4n%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 1,
+        "error": ""
+      }
+    ]
+  },
+  "5857": {
+    "checked_at": "2026-10-03",
+    "research_status": "CHECKED_UNRESOLVED",
+    "before_issues": "ISBN_MISSING",
+    "updates": {},
+    "sources": [
+      "https://csdlkhoahoc.hueuni.edu.vn/index.php/book/detail/5857"
+    ],
+    "notes": "Đã đọc lại nguồn Đại học Huế và tra mục lục Thư viện Quốc gia; chưa đủ căn cứ bổ sung các trường còn thiếu cho đúng ấn bản.",
+    "searches": [
+      {
+        "query": "Ngoại cơ sở",
+        "url": "https://opac.nlv.gov.vn/tim-kiem?data=%7B%22type%22%3A%20%22basic%22%2C%20%22page%22%3A%201%2C%20%22pageSize%22%3A%2010%2C%20%22hasFacetFilter%22%3A%20false%2C%20%22request%22%3A%20%7B%22searchBy%22%3A%20%5B%5B%22ti%22%2C%20%22Ngo%E1%BA%A1i%20c%C6%A1%20s%E1%BB%9F%22%5D%5D%2C%20%22sortBy%22%3A%20%5B%5B%22year_pub%22%2C%20%22desc%22%5D%5D%2C%20%22filterBy%22%3A%20%5B%5D%7D%7D",
+        "candidate_count": 5,
+        "error": ""
+      }
+    ]
+  }
+}
