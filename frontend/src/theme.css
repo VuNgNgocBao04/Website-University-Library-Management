@@ -632,18 +632,46 @@ textarea {
 }
 .loan-detail {
   display: grid;
-  grid-template-columns: 2fr 1.2fr 1.2fr 1.4fr;
+  grid-template-columns: minmax(0, 2fr) repeat(2, minmax(0, 1.2fr)) minmax(0, 1.4fr);
   gap: 1rem;
   align-items: center;
   padding: 1.3rem 0;
   border-bottom: 1px solid var(--bs-border-color);
   font-size: 0.85rem;
 }
+.loan-detail > div {
+  min-width: 0;
+}
 .loan-detail small {
   font-size: 0.75rem;
 }
+.loan-detail-closed-date {
+  white-space: nowrap;
+}
 .loan-detail .d-flex {
   flex-wrap: wrap;
+}
+.violation-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+.violation-actions > * {
+  flex: 0 0 auto;
+}
+.violation-actions .btn {
+  white-space: nowrap;
+}
+.loan-closed-label {
+  display: inline-flex;
+  min-height: 2rem;
+  align-items: center;
+  border-radius: 999px;
+  padding: 0.35rem 0.7rem;
+  background: var(--navy-soft);
+  color: var(--bs-secondary-color);
+  line-height: 1.2;
 }
 .debt-card {
   display: flex;

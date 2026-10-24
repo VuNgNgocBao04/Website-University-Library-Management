@@ -74,8 +74,8 @@ export function Loans({
       <div>
         {d.closedAt ? (
           <>
-            <Badge value={d.returnedAt ? 'RETURNED' : 'LOST'} />
-            <small className="d-block text-secondary">{date(d.closedAt)}</small>
+            <small className="text-secondary">{d.returnedAt ? 'Ngày trả sách' : 'Ngày báo mất'}</small>
+            <div className="loan-detail-closed-date">{date(d.closedAt)}</div>
           </>
         ) : d.itemStatus === 'LOST' ? (
           <div>
@@ -175,7 +175,7 @@ export function Loans({
         ) : receipts.length ? (
           receipts.map((r) => (
             <section className="panel mb-4" key={r.id}>
-              <div className="d-flex justify-content-between flex-wrap gap-3 border-bottom pb-3 mb-2">
+              <div className="d-flex align-items-center justify-content-between flex-wrap gap-3 border-bottom pb-3 mb-2">
                 <div>
                   <h2 className="h5 mb-1">
                     Phiếu #{r.id} · {r.readerName}
@@ -431,7 +431,7 @@ export function Violations() {
                       <Badge value={v.status} />
                     </td>
                     <td>
-                      <div className="d-flex flex-wrap gap-2">
+                      <div className="violation-actions">
                         <button className="btn btn-sm btn-light" onClick={() => setHistory(v)}>
                           Lịch sử thu
                         </button>
@@ -457,7 +457,7 @@ export function Violations() {
                               </button>
                             )}
                             {v.type === 'LOST' && v.loanClosedAt && (
-                              <span className="text-secondary">Đã đóng nghĩa vụ mượn</span>
+                              <span className="loan-closed-label">Đã đóng nghĩa vụ mượn</span>
                             )}
                             {v.status === 'OPEN' && (
                               <Action
