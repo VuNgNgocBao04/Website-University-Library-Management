@@ -52,6 +52,13 @@ public class LocalSeed implements CommandLineRunner {
     lecturer.setReaderType(ReaderType.LECTURER);
     account(lecturer, "lecturer", "Giảng viên Lê Hà");
     rules.findAll().forEach(r -> r.setDailyFineAmount(new BigDecimal("2000.00"))); // Illustrative local rate only.
+    if (books.count() == 0) {
+      seedSampleCatalog(student, librarian);
+    }
+
+  }
+
+  private void seedSampleCatalog(Reader student, Librarian librarian) {
     var c = new Category();
     c.setName("Công nghệ thông tin");
     c.setDescription("Giáo trình và tài liệu chuyên ngành");

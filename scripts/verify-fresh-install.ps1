@@ -46,11 +46,11 @@ try {
       } catch { Start-Sleep -Seconds 1 }
     }
     if (!$ready) { throw "Fresh-install login failed; see $logDir" }
-    $counts = Sql "SELECT (SELECT COUNT(*) FROM $database.users), (SELECT COUNT(*) FROM $database.books), (SELECT COUNT(*) FROM $database.book_items), (SELECT COUNT(*) FROM $database.borrow_receipts), (SELECT COUNT(*) FROM $database.borrow_details), (SELECT COUNT(*) FROM $database.flyway_schema_history WHERE success=1)"
-    if ($counts.Trim() -ne "4`t6`t24`t1`t2`t1") { throw "Unexpected seed counts: $counts" }
-    $catalog = Invoke-RestMethod 'http://127.0.0.1:18081/api/books?size=100' -WebSession $session
-    if ($catalog.totalElements -ne 6) { throw 'Fresh catalog API count mismatch' }
-    Write-Output "Run ${run}: login, catalog and seed counts passed (4 users, 6 books, 24 copies, 1 receipt, 2 details, 1 migration)."
+    $counts = Sql "SELECT (SELECT COUNT(*) FROM $database.users), (SELECT COUNT(*) FROM $database.categories), (SELECT COUNT(*) FROM $database.books), (SELECT COUNT(*) FROM $database.book_items), (SELECT COUNT(*) FROM $database.borrow_receipts), (SELECT COUNT(*) FROM $database.borrow_details), (SELECT COUNT(*) FROM $database.flyway_schema_history WHERE success=1)"
+    if ($counts.Trim() -ne "4`t37`t179`t195`t0`t0`t2") { throw "Unexpected seed counts: $counts" }
+    $catalog = Invoke-RestMethod 'http://127.0.0.1:18081/api/books?size=200' -WebSession $session
+    if ($catalog.totalElements -ne 179) { throw 'Fresh catalog API count mismatch' }
+    Write-Output "Run ${run}: login, catalog and seed counts passed (4 users, 37 categories, 179 books, 195 copies, 2 migrations)."
     Stop-Process -Id $process.Id -Force
     $process.WaitForExit()
     $process = $null
